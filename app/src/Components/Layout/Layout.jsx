@@ -1,12 +1,12 @@
-import  { Fragment } from 'react'
-import MainNavigation from './MainNavigation'
-import Footer from '../Footer'
+// import  { Fragment } from 'react'
+// import MainNavigation from './MainNavigation'
 
-export default function Layout () {
-  return (
-    <Fragment>
-        <MainNavigation />
-        <Footer />
-    </Fragment>
-  )
-}
+
+// export default function Layout (props) {
+//   return (
+//     <Fragment>
+//         <MainNavigation />
+//         {props.children}
+//     </Fragment>
+//   )
+// }
