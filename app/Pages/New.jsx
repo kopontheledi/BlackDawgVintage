@@ -2,6 +2,6 @@
 
 export default function New() {
   return (
-    <div>New</div>
+    <h1>New</h1>
   )
 }
